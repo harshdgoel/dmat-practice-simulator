@@ -18,7 +18,7 @@ The site is a dependency-free static web app. It contains:
 From the project directory:
 
 ```bash
-python3 -m http.server 8765 --directory outputs/dmat-practice-site
+python3 -m http.server 8765
 ```
 
 Then open <http://localhost:8765/>.
